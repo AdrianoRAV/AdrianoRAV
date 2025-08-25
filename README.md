@@ -44,9 +44,9 @@
 ---
 
 ## 📫 Como me encontrar
-- ✉️ Email: **seu_email@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/seu_usuario](https://linkedin.com/in/seu_usuario)  
-- 🐦 Twitter: [twitter.com/seu_usuario](https://twitter.com/seu_usuario)  
+- ✉️ Email: **adrianorodrigues38@.com**  
+- 💼 LinkedIn: [linkedin.com/in/seu_usuario](https://linkedin.com/in/AdrianoRAV)  
+ 
 
 ---
 
