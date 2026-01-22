@@ -45,7 +45,7 @@
 
 ## 📫 Como me encontrar
 - ✉️ Email: **adrianorodrigues38@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/seu_usuario](https://linkedin.com/in/AdrianoRAV)  
+- 💼 LinkedIn: https://linkedin.com/in/AdrianoRAV
  
 
 ---
